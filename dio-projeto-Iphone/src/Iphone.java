@@ -7,7 +7,7 @@ public class Iphone {
             NavegadorInternet nav = new NavegadorInternet();
             boolean loop = true;
             while (loop) {
-                System.out.println("Descubra e se surpreenda com as novas funcionalidades do Iphone");
+                System.out.println("Descubra e se surpreenda com as novas funcionalidades do Iphone!");
                 System.out.println("1: Abrir o navegador.");
                 System.out.println("2: Realizar uma ligação.");
                 System.out.println("3: Escolher a sua música preferida.");
